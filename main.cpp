@@ -1,4 +1,5 @@
 #include <iostream>
+#include "src/BlockChainCore/Block.h"
 
 int main()
 {
